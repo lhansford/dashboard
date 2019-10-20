@@ -19,3 +19,10 @@ code {
 .switch-wrapper > div {
   position: absolute;
 }
+
+a:visited {
+  color: black;
+}
+a:hover {
+  color: rgba(0,0,0,0.5);
+}
