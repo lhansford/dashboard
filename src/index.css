@@ -20,7 +20,7 @@ code {
   position: absolute;
 }
 
-a:visited {
+a, a:visited {
   color: black;
 }
 a:hover {
