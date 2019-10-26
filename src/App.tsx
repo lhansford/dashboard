@@ -35,7 +35,7 @@ const App: React.FC = () => {
             )}
           />
         )}
-      <Router>
+      <Router basename="/dashboard">
         <Link to="/">Home</Link>
         <Link to="/something">something</Link>
         <Routes />
